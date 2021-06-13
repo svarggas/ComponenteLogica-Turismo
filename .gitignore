@@ -1,0 +1,13 @@
+/build/
+target
+nbactions.xml
+nb-configuration.xml
+/nbproject/
+project.properties
+*.iml
+.idea/
+.project
+.settings/
+.classpath
+credentials.json
+tokens/
